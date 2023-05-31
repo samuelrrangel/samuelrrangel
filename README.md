@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# My name is Samuel. I'm a developer from Brazil. Passionate for programming, _Linux_, problem solving and ✨ _learning_ ✨.
+## I'm a developer from Brazil. Passionate for programming, _Linux_, problem solving and ✨ _learning_ ✨.
 
 - 🔭 I’m currently working on [Fênix Robótica](https://github.com/r47orr/fenix-robotica-js) and [Math](https://github.com/r47orr/math).
 - 🌱 I’m currently learning C, C# and improving on JavaScript.
