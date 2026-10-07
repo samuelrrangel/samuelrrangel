@@ -56,6 +56,4 @@ You can find more experiments on
 
 ### GitHub Activity
 
-[![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=samuelrrangel&theme=github-compact&hide_border=true&days=31)](https://github.com/samuelrrangel)
-
 [![Contribution streak](https://streak-stats.demolab.com/?user=samuelrrangel&theme=default&hide_border=true)](https://github.com/samuelrrangel)
